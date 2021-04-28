@@ -1,5 +1,7 @@
-# MonetizationStrategy-Public-
+# Monetization Strategy 
 
 CERTIFICATE OF COMPLETION
 
-https://confirm.udacity.com/YAFNCR42
+Link: [https://confirm.udacity.com/YAFNCR42]
+
+<img src="https://github.com/karanjagota/MonetizationStrategy-Public-/blob/main/certificate.png"/>
